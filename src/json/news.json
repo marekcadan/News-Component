@@ -1,0 +1,66 @@
+[
+	{
+		"id": 1,
+		"image": "https://www.pipelife.com/service/news-and-projects/2022/coloring-the-electrical-conduit-market/jcr:content/root/media_1790232234/item/image.imgTransformer/media_16to10/sm-2/1646642157354/2022PF_Preflex-Introduces-Color-Conduits%20(1).jpg",
+		"title": "COLORING THE ELECTRICAL CONDUIT MARKET",
+		"date": "Mar 2nd, 2022",
+		"time": "3 min",
+		"url": "https://www.pipelife.com/service/news-and-projects/2022/coloring-the-electrical-conduit-market.html"
+	},
+	{
+		"id": 2,
+		"image": "https://www.pipelife.com/service/news-and-projects/2022/hydrogen-infrastructure-for-renewable-energy/jcr:content/root/media_1790232234/item/image.imgTransformer/media_16to10/lg-5/1644937718902/21SF_Energy-Efficient-Infrastructure%20(3).jpg",
+		"title": "HYDROGEN INFRASTRUCTURE FOR RENEWABLE ENERGY",
+		"date": "Feb 17th, 2022",
+		"time": "5 min",
+		"url": "https://www.pipelife.com/service/news-and-projects/2022/hydrogen-infrastructure-for-renewable-energy.html"
+	},
+	{
+		"id": 3,
+		"image": "https://www.pipelife.com/service/news-and-projects/2022/pipelife-cable-protection-systems-for-the-new-ennsdorf-oil-mill/jcr:content/root/media_1790232234/item/image.imgTransformer/media_16to10/lg-5/1644500125109/2202AT_Oil-Mill-Cable-Protection%20(2).jpg",
+		"title": "PIPELIFE CABLE PROTECTION SYSTEMS FOR THE NEW ENNSDORF OIL MILL",
+		"date": "Feb 10th, 2021",
+		"time": "4 min",
+		"url": "https://www.pipelife.com/service/news-and-projects/2022/pipelife-cable-protection-systems-for-the-new-ennsdorf-oil-mill.html"
+	},
+	{
+		"id": 4,
+		"image": "https://www.pipelife.com/service/news-and-projects/2022/developing-wind-energy-infrastructure-in-lithuania/jcr:content/root/media_1790232234/item/image.imgTransformer/media_16to10/lg-5/1644563561204/2202LT_Wind-Park-Mazeikiai.jpg",
+		"title": "DEVELOPING WIND ENERGY INFRASTRUCTURE IN LITHUANIA",
+		"date": "Feb 4th, 2022",
+		"time": "3 min",
+		"url": "https://www.pipelife.com/service/news-and-projects/2022/developing-wind-energy-infrastructure-in-lithuania.html"
+	},
+	{
+		"id": 5,
+		"image": "https://www.pipelife.com/service/news-and-projects/2022/pipelife-helps-resolve-water-quality-issues-in-nuorgam/jcr:content/root/media_1790232234/item/image.imgTransformer/media_16to10/lg-5/1643373487119/2021-10-PIPELIFE-NUORGAM-HM-42.jpg",
+		"title": "PIPELIFE HELPS RESOLVE WATER QUALITY ISSUES IN NUORGAM",
+		"date": "Jan 28th, 2021",
+		"time": "4 min",
+		"url": "https://www.pipelife.com/service/news-and-projects/2022/pipelife-helps-resolve-water-quality-issues-in-nuorgam.html"
+	},
+	{
+		"id": 6,
+		"image": "https://www.pipelife.com/service/news-and-projects/2022/revisiting-a-sewer-manhole-after-5-years/jcr:content/root/media_1790232234/item/image.imgTransformer/media_16to10/lg-5/1643191865917/2201BG_Pro-Manhole-revision%20(1)_edited.jpg",
+		"title": "REVISITING A SEWER MANHOLE AFTER 5 YEARS WITHOUT MAINTENANCE",
+		"date": "Jan 26th, 2021",
+		"time": "3 min",
+		"url": "https://www.pipelife.com/service/news-and-projects/2022/revisiting-a-sewer-manhole-after-5-years.html"
+	},
+	{
+		"id": 7,
+		"image": "https://www.pipelife.com/service/news-and-projects/2022/not-all-heroes-wear-capes-meet-our-green-team/jcr:content/root/media_1790232234/item/image.imgTransformer/media_16to10/lg-5/1642503728745/2112EE_Green-Team%20(8).jpg",
+		"title": "NOT ALL HEROES WEAR CAPES: MEET OUR GREEN TEAM",
+		"date": "Jan 18th, 2021",
+		"time": "3 min",
+		"url": "https://www.pipelife.com/service/news-and-projects/2022/not-all-heroes-wear-capes-meet-our-green-team.html"
+	},
+	{
+		"id": 8,
+		"image": "https://www.pipelife.com/service/news-and-projects/2022/azay-le-rideau-benefits-from-a-reinforced-sanitation-network/jcr:content/root/media_1790232234/item/image.imgTransformer/media_16to10/lg-5/1642601997156/2201FR_Azay-le-Rideau-Wastewater-System_3.jpg",
+		"title": "AZAY-LE-RIDEAU BENEFITS FROM A REINFORCED SANITATION NETWORK",
+		"date": "Jan 12th, 2022",
+		"time": "3 min",
+		"url": "https://www.pipelife.com/service/news-and-projects/2022/azay-le-rideau-benefits-from-a-reinforced-sanitation-network.html"
+	}
+]
